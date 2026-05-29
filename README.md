@@ -1,8 +1,3 @@
-<!-- ░░░ ANIMATED HEADER BANNER ░░░ -->
-<div align="center">
-  <img src="assets/header-amber.svg" width="100%" alt="professional night sky header with soft amber border"/>
-</div>
-
 <!-- ░░░ HERO TEXT ░░░ -->
 <div align="center">
   <h1>Hi there, I'm Melvin&nbsp;👋</h1>
@@ -17,11 +12,9 @@
 
 <!-- ░░░ CTA BUTTON ░░░ -->
 <div align="center">
-  <a href="https://cryddd.github.io">
+  <a href="https://cryddd.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=131826&height=80&text=Click+me+to+explore+another+dimension&fontSize=22&fontColor=E8C07A&fontAlignY=55" width="100%" alt="Click me to explore another dimension"/>
   </a>
-  <br>
-  <sub><em>Mouse-reactive text interactions live on the external page — GitHub cannot run custom scripts.</em></sub>
 </div>
 
 <br>
@@ -243,4 +236,8 @@ In many ways, SOFTWARE ENGINEERING became another instrument for me.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Cryddd&color=C49240&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <br><br>
+  <a href="https://cryddd.github.io/" target="_blank" rel="noopener noreferrer">Explore the interactive experience →</a>
+  <br>
+  <sub><em>The full mouse-reactive, animated experience lives on the external page — GitHub READMEs can't run custom scripts.</em></sub>
 </div>
