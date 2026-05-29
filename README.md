@@ -52,10 +52,10 @@
 
 <div align="center">
   <h1>Hi there, I'm Melvin&nbsp;👋</h1>
-  <p><em>Full-Stack Developer &nbsp;·&nbsp; Visual Storyteller &nbsp;·&nbsp; AI Explorer &nbsp;·&nbsp; Guitar Player</em></p>
+  <p><em>Full-Stack Newbie Software Engineer &nbsp;·&nbsp; Visual Storyteller &nbsp;·&nbsp; AI Explorer &nbsp;·&nbsp; Yapper</em></p>
   <br>
   <a href="https://github.com/Cryddd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=F7A325&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;AI+Engineering+Explorer;Visual+Storyteller;Guitar+%26+Code+Poet" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=F7A325&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;AI+Engineering+Explorer;Visual+Storyteller;Yapper+%26+Code+Poet" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -120,7 +120,7 @@
   </tr>
 </table>
 
-Hii! I'm **Melvin** — an aspiring Full-Stack Developer turning creative ideas into modern digital experiences.
+Hii! I'm **Melvin** — an aspiring Full-Stack Software Engineer turning creative ideas into modern digital experiences.
 
 I wasn't one of those people who grew up already knowing how to code. When I entered college as a BSIT student, I honestly knew almost nothing about programming. But somewhere along the journey, during my second year, Java was introduced — and everything changed.
 
