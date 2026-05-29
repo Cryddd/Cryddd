@@ -1,27 +1,249 @@
-# 💫 About Me:
-Hii!, I’m Melvin 👋<br>An Aspiring Full-Stack Developer Turning Creative Ideas Into Modern Digital Experiences<br><br><br>I wasn’t one of those people who grew up already knowing how to code.<br><br>When I entered college as a BSIT student, I honestly knew almost nothing about programming — just a few random concepts about technology and computers. But somewhere along the journey, during my second year, I discovered Java… and everything changed.<br><br>I became obsessed.<br><br>Not the normal kind of “study for exams” obsessed. I literally used to write Java code on sheets of paper for hours, imagining outputs in my head and mentally executing programs line by line like I was solving puzzles inside another universe. It felt less like studying and more like discovering a new form of art.<br><br>That curiosity slowly became passion.<br>That passion became creativity.<br>And that creativity became my world.<br><br>Today, I’m a fresh graduate BSIT student who loves building visually immersive websites, modern mobile applications, and meaningful digital experiences. I enjoy designing interfaces that feel alive — systems that are not only functional, but emotionally engaging, cinematic, smooth, and artistic.<br><br>For me, frontend development isn’t just “design.”<br>It’s visual storytelling.<br><br>I love blending UI/UX principles with modern frontend architecture to create experiences that feel futuristic yet human. At the same time, I also work as a full-stack developer because I enjoy understanding how everything connects behind the scenes — from beautiful interfaces down to scalable systems and backend logic.<br><br>Most of what I know today came from self-study, endless experimentation, late-night curiosity, and navigating through the chaotic but inspiring world of tech communities and social media. I’m the type of person who gets excited discovering the newest innovations, modern UI trends, AI breakthroughs, creative workflows, and futuristic technologies.<br><br>And speaking of the future — I’m currently diving deeply into AI Engineering.<br><br>AI, for me, isn’t something that replaces creativity.<br>It amplifies it.<br><br>Learning AI Engineering has changed the way I think as a software engineer. It allows me to combine logic, creativity, automation, and imagination into one ecosystem. In a world rapidly evolving through artificial intelligence, I want to become the kind of engineer who doesn’t fear innovation — but grows with it, creates with it, and shapes experiences around it.<br><br>The more technology evolves, the more I realize something:<br><br>The only real limit in software development is imagination.<br><br>Outside the world of code, music is probably the biggest part of my life. I love music more than anything else, and I play guitar as one of my favorite escapes from reality. Music taught me rhythm, emotion, patience, and creativity — the same things I unknowingly apply when designing interfaces or building applications.<br><br>In many ways, software engineering became another instrument for me.<br><br>A canvas where art meets logic.<br>A place where imagination becomes interactive.<br>A world where ideas finally get to breathe.<br><br>And honestly?<br>I’m still just getting started 🚀
+````md
+<!-- ========================================================= -->
+<!--                 🌌 CINEMATIC GITHUB PROFILE               -->
+<!-- ========================================================= -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Melvin%20Contreras&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Engineering%20•%20Creative%20Coder&descAlignY=58&descSize=20"/>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/contrerasssmelvin.0101) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mlvncntrrs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mlvncntrrs/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/melvincontrerasss812) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_cntrrsmlvn) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/crispycrydd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:melvincontrerasss812@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Cryddd&theme=solarized-light&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Cryddd&theme=solarized-light&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cryddd&theme=solarized-light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Cryddd&theme=holi&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Cryddd&limit=5&theme=holi&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=🎧+Coding+with+music+and+creativity...;🚀+Building+cinematic+digital+experiences;🎨+Frontend+is+visual+storytelling;🤖+Exploring+AI+Engineering+and+creative+technology;☕+Late-night+coding+sessions+hit+different"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Cryddd&icon=2&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100"/>
+</p>
+
+# 💫 About Me
+
+Hii!, I’m **Melvin** 👋  
+An aspiring **Full-Stack Developer** turning creative ideas into modern digital experiences.
+
+---
+
+I wasn’t one of those people who grew up already knowing how to code.
+
+When I entered college as a BSIT student, I honestly knew almost nothing about programming — just a few random concepts about technology and computers. But somewhere along the journey, during my second year, I discovered Java… and everything changed.
+
+I became obsessed.
+
+Not the normal kind of “study for exams” obsessed. I literally used to write Java code on sheets of paper for hours, imagining outputs in my head and mentally executing programs line by line like I was solving puzzles inside another universe.
+
+It felt less like studying  
+and more like discovering a new form of art.
+
+That curiosity slowly became passion.  
+That passion became creativity.  
+And that creativity became my world.
+
+Today, I’m a fresh graduate BSIT student who loves building visually immersive websites, modern mobile applications, and meaningful digital experiences.
+
+I enjoy designing interfaces that feel alive — systems that are not only functional, but emotionally engaging, cinematic, smooth, and artistic.
+
+For me, frontend development isn’t just “design.”
+
+It’s visual storytelling.
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8f/5f/54/8f5f54f6f6d3d9f5dfbb0f6a9f4a7c84.gif" width="100%"/>
+</p>
+
+# 🌌 Currently Exploring
+
+```yaml
+Learning:
+  - AI Engineering
+  - Generative AI Systems
+  - Modern Frontend Architecture
+  - Motion UI & 3D Interfaces
+  - Scalable Backend Systems
+
+Building:
+  - Cinematic UI Experiences
+  - AI-powered Applications
+  - Experimental Creative Interfaces
+
+Obsessed With:
+  - Music
+  - Visual Design
+  - Futuristic Technology
+  - Creative Coding
+````
+
+---
+
+# 🎧 Music & Creativity
+
+Music is probably the biggest part of my life outside the world of code.
+
+I love music more than anything else, and I play guitar as one of my favorite escapes from reality. Music taught me rhythm, emotion, patience, and creativity — the same things I unknowingly apply when designing interfaces or building applications.
+
+In many ways, software engineering became another instrument for me.
+
+A canvas where art meets logic.
+A place where imagination becomes interactive.
+A world where ideas finally get to breathe.
+
+---
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31j3r5x4f6example&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true"/>
+</p>
+
+---
+
+# 💻 Developer Environment
+
+```bash
+OS        :: macOS
+Editor    :: VS Code
+Music     :: Spotify + Headphones
+Stack     :: React • Next • FastAPI • PostgreSQL
+Vibe      :: Late-night cyber café coding
+```
+
+---
+
+# 🌐 Socials
+
+<p align="center">
+  <a href="https://www.facebook.com/contrerasssmelvin.0101">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/mlvncntrrs">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/mlvncntrrs">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://tiktok.com/@_cntrrsmlvn">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+
+  <a href="mailto:melvincontrerasss812@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# ⚡ Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,cs,dotnet,swift,ruby,react,nextjs,nodejs,vue,tailwind,flutter,fastapi,django,flask,mysql,postgres,supabase,docker,kubernetes,git,github,figma,vscode,vercel,firebase"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cryddd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryddd&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cryddd&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cryddd&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# ☕ Philosophy
+
+> “Technology becomes unforgettable when logic and emotion coexist.”
+
+I don’t just build applications.
+I build experiences that feel alive.
+
+For me, software engineering is where:
+
+* creativity meets systems
+* art meets architecture
+* music meets interaction
+* imagination becomes reality
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%"/>
+</p>
+
+# 🤖 AI Engineering Journey
+
+AI, for me, isn’t something that replaces creativity.
+
+It amplifies it.
+
+Learning AI Engineering changed the way I think as a software engineer. It allows me to combine logic, creativity, automation, and imagination into one ecosystem.
+
+In a world rapidly evolving through artificial intelligence, I want to become the kind of engineer who doesn’t fear innovation — but grows with it, creates with it, and shapes experiences around it.
+
+The more technology evolves, the more I realize something:
+
+> The only real limit in software development is imagination.
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cryddd/Cryddd/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔝 Top Contributed Repository
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Cryddd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cryddd&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
+
+<!-- ========================================================= -->
+
+<!--                 🌌 END OF README                          -->
+
+<!-- ========================================================= -->
+
+```
+```
