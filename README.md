@@ -122,17 +122,17 @@
 
 Hii! I'm **Melvin** — an aspiring Full-Stack Developer turning creative ideas into modern digital experiences.
 
-I wasn't one of those people who grew up already knowing how to code. When I entered college as a BSIT student, I honestly knew almost nothing about programming. But somewhere along the journey, during my second year, I discovered Java — and everything changed.
+I wasn't one of those people who grew up already knowing how to code. When I entered college as a BSIT student, I honestly knew almost nothing about programming. But somewhere along the journey, during my second year, Java was introduced — and everything changed.
 
 **I became obsessed.**
 
-Not the normal kind of "study for exams" obsessed. I literally used to write Java code on sheets of paper for hours, imagining outputs in my head and mentally executing programs line by line like I was solving puzzles inside another universe. It felt less like studying and more like discovering a new form of art.
+Yeah, I had fun! But not the normal kind of "study for exams" obsessed, just loved solving some random console problems on CodeWars and CodeChum, I developed my critical thinking. I literally used to write Java code on sheets of paper to prepare for labs, imagining outputs in my head and mentally executing programs line by line like I was solving puzzles inside another universe. It felt less like studying and more like discovering a new form of art. I miss those days:)
 
 > *That curiosity became passion. That passion became creativity. And that creativity became my world.*
 
-Today, I'm a fresh graduate BSIT student who loves building visually immersive websites, modern mobile applications, and meaningful digital experiences. I enjoy designing interfaces that **feel alive** — systems that are not only functional, but emotionally engaging, cinematic, smooth, and artistic.
+Today, I'm a fresh graduate BSIT student who loves building visually immersive websites, modern mobile applications, and meaningful digital experiences. I enjoy designing interfaces that **feel alive** — systems that are not only functional, but emotionally engaging, cinematic, smooth, and artistic, while maintaining minimal attractive designs.
 
-For me, **frontend development isn't just "design."** It's visual storytelling.
+For me, **Frontend Development isn't just "design."** It's visual storytelling.
 
 I love blending UI/UX principles with modern frontend architecture to create experiences that feel futuristic yet human. At the same time, I also work as a full-stack developer because I enjoy understanding how everything connects — from beautiful interfaces down to scalable systems and backend logic.
 
@@ -155,15 +155,15 @@ And honestly? I'm still just getting started 🚀
   Three.js immersive scenes, Framer Motion interactions, and cinematic UI experiences that blur the line between art and interface.
 
 - **🏗️ Scalable Architecture**  
-  Containerised microservices with Docker and Kubernetes, event-driven backends, and modern full-stack deployment workflows.
+  Containerized microservices with Docker and Kubernetes, event-driven backends, and modern full-stack deployment workflows.
 
 ---
 
 ## 🎵 Music × Code
 
-Outside the world of code, **music is probably the biggest part of my life.** I play guitar as one of my favourite escapes from reality. Music taught me rhythm, emotion, patience, and creativity — the same things I unknowingly apply when designing interfaces or building applications.
+Outside the world of code, **music is probably the biggest part of my life.** I play and vibe along with music as one of my favourite escapes from reality. Music taught me rhythm, emotion, patience, and creativity — the same things I unknowingly apply when designing interfaces or building applications.
 
-In many ways, software engineering became another instrument for me.
+In many ways, SOFTWARE ENGINEERING became another instrument for me.
 
 > *A canvas where art meets logic. A place where imagination becomes interactive. A world where ideas finally get to breathe.*
 
@@ -306,7 +306,7 @@ In many ways, software engineering became another instrument for me.
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Hopes UP!
 
 <div align="center">
 
