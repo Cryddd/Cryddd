@@ -9,7 +9,7 @@
 <!-- ░░░ HERO TEXT ░░░ -->
 <div align="center">
   <h1>Hi there, I'm Melvin&nbsp;👋</h1>
-  <p><em>Full-Stack Newbie Software Engineer &nbsp;·&nbsp; Visual Storyteller &nbsp;·&nbsp; AI Explorer</em></p>
+  <p><em>Full-Stack Software Engineer &nbsp;·&nbsp; Visual Storyteller &nbsp;·&nbsp; AI Explorer</em></p>
   <br>
   <a href="https://github.com/Cryddd">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=F7A325&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;AI+Engineering+Explorer;Visual+Storyteller;Yapper+%26+Code+Poet" alt="Typing SVG"/>
