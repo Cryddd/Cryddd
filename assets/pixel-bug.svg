@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80" role="img" aria-label="pixel ladybug debug mode on">
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 34 20;-9 34 20;0 34 20;6 34 20;0 34 20"
+      keyTimes="0;0.25;0.5;0.75;1"
+      dur="4s" begin="0s" repeatCount="indefinite"/>
+    <line x1="34" y1="20" x2="24" y2="7" stroke="#1a0a00" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="23" cy="6" r="2.8" fill="#1a0a00"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 46 20;9 46 20;0 46 20;-6 46 20;0 46 20"
+      keyTimes="0;0.25;0.5;0.75;1"
+      dur="4s" begin="0.6s" repeatCount="indefinite"/>
+    <line x1="46" y1="20" x2="56" y2="7" stroke="#1a0a00" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="57" cy="6" r="2.8" fill="#1a0a00"/>
+  </g>
+  <ellipse cx="40" cy="24" rx="13" ry="11" fill="#1a0a00"/>
+  <ellipse cx="35" cy="22" rx="3.8" ry="4.2" fill="white">
+    <animate attributeName="ry" values="4.2;0.2;4.2;4.2" keyTimes="0;0.05;0.1;1" dur="5s" begin="2s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="45" cy="22" rx="3.8" ry="4.2" fill="white">
+    <animate attributeName="ry" values="4.2;0.2;4.2;4.2" keyTimes="0;0.05;0.1;1" dur="5s" begin="2.15s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="36" cy="23" rx="2.2" ry="2.8" fill="#1a0a00">
+    <animate attributeName="ry" values="2.8;0.1;2.8;2.8" keyTimes="0;0.05;0.1;1" dur="5s" begin="2s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="46" cy="23" rx="2.2" ry="2.8" fill="#1a0a00">
+    <animate attributeName="ry" values="2.8;0.1;2.8;2.8" keyTimes="0;0.05;0.1;1" dur="5s" begin="2.15s" repeatCount="indefinite"/>
+  </ellipse>
+  <circle cx="34" cy="21" r="0.9" fill="white" opacity="0.7"/>
+  <circle cx="44" cy="21" r="0.9" fill="white" opacity="0.7"/>
+  <ellipse cx="40" cy="54" rx="23" ry="27" fill="#cc2200"/>
+  <ellipse cx="33" cy="38" rx="7" ry="5" fill="#ff4422" opacity="0.35"/>
+  <line x1="40" y1="30" x2="40" y2="78" stroke="#880000" stroke-width="2.8"/>
+  <circle cx="30" cy="44" r="5.5" fill="#880000"/>
+  <circle cx="50" cy="44" r="5.5" fill="#880000"/>
+  <circle cx="27" cy="57" r="5" fill="#880000"/>
+  <circle cx="53" cy="57" r="5" fill="#880000"/>
+  <circle cx="31" cy="69" r="4" fill="#880000"/>
+  <circle cx="49" cy="69" r="4" fill="#880000"/>
+  <line x1="20" y1="46" x2="10" y2="40" stroke="#1a0a00" stroke-width="2" stroke-linecap="round"/>
+  <line x1="19" y1="56" x2="8" y2="56" stroke="#1a0a00" stroke-width="2" stroke-linecap="round"/>
+  <line x1="21" y1="66" x2="11" y2="73" stroke="#1a0a00" stroke-width="2" stroke-linecap="round"/>
+  <line x1="60" y1="46" x2="70" y2="40" stroke="#1a0a00" stroke-width="2" stroke-linecap="round"/>
+  <line x1="61" y1="56" x2="72" y2="56" stroke="#1a0a00" stroke-width="2" stroke-linecap="round"/>
+  <line x1="59" y1="66" x2="69" y2="73" stroke="#1a0a00" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,15 +1,13 @@
-<!-- ░░░ AMBER TOP BORDER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7A325&height=4" width="100%" alt=""/>
-
 <!-- ░░░ ANIMATED HEADER BANNER ░░░ -->
+<!-- NOTE: Push the assets/ folder to GitHub for animations to display -->
 <div align="center">
-  <img src="assets/header-amber.svg" width="100%" alt="animated night sky with amber glow border"/>
+  <img src="assets/header-amber.svg" width="100%" alt="cozy animated night sky with amber glow frame"/>
 </div>
 
 <!-- ░░░ HERO TEXT ░░░ -->
 <div align="center">
   <h1>Hi there, I'm Melvin&nbsp;👋</h1>
-  <p><em>Full-Stack Software Engineer &nbsp;·&nbsp; Visual Storyteller &nbsp;·&nbsp; AI Explorer</em></p>
+  <p><em>Full-Stack Newbie Software Engineer &nbsp;·&nbsp; Visual Storyteller &nbsp;·&nbsp; AI Explorer &nbsp;·&nbsp; Yapper</em></p>
   <br>
   <a href="https://github.com/Cryddd">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=F7A325&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;AI+Engineering+Explorer;Visual+Storyteller;Yapper+%26+Code+Poet" alt="Typing SVG"/>
@@ -21,7 +19,7 @@
 <!-- ░░░ CTA BUTTON ░░░ -->
 <div align="center">
   <a href="https://cryddd.github.io">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=F7A325&height=82&text=Click%20me%20to%20explore%20another%20dimension&fontSize=22&fontColor=0d1117&animation=fadeIn&fontAlignY=44&desc=Full%20hover-reactive%20text%20%26%20interactive%20experience%20awaits&descSize=14&descColor=1a0800&descAlignY=72" width="100%" alt="Click me to explore another dimension"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=F7A325&height=80&text=Click+me+to+explore+another+dimension&fontSize=22&fontColor=0d1117&fontAlignY=55" width="100%" alt="Click me to explore another dimension"/>
   </a>
   <br>
   <sub><em>Mouse-reactive text interactions live on the external page — GitHub cannot run custom scripts.</em></sub>
@@ -97,7 +95,14 @@ And honestly? I'm still just getting started 🚀
 <!-- ░░░ AMBER DIVIDER ░░░ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F7A325&height=3" width="100%" alt=""/>
 
-## 🎵 Music × Code
+<table width="100%">
+  <tr>
+    <td><h2>🎵 Music × Code</h2></td>
+    <td align="right">
+      <img src="assets/cozy-spirit.svg" width="80" alt="cute floating ghibli spirit with amber sparkles"/>
+    </td>
+  </tr>
+</table>
 
 Outside the world of code, **music is probably the biggest part of my life.** I play and vibe along with music as one of my favourite escapes from reality. Music taught me rhythm, emotion, patience, and creativity — the same things I unknowingly apply when designing interfaces or building applications.
 
@@ -193,11 +198,11 @@ In many ways, SOFTWARE ENGINEERING became another instrument for me.
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=Cryddd&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=Cryddd&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=Cryddd&theme=radical&hide_border=true)
+![](https://streak-stats.demolab.com/?user=Cryddd&theme=solarized-light&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cryddd&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cryddd&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -208,7 +213,7 @@ In many ways, SOFTWARE ENGINEERING became another instrument for me.
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Cryddd&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Cryddd&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
@@ -219,7 +224,7 @@ In many ways, SOFTWARE ENGINEERING became another instrument for me.
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 </div>
 
@@ -230,7 +235,7 @@ In many ways, SOFTWARE ENGINEERING became another instrument for me.
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Cryddd&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Cryddd&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 </div>
 
