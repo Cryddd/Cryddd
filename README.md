@@ -1,7 +1,6 @@
 <!-- ░░░ ANIMATED HEADER BANNER ░░░ -->
-<!-- NOTE: Push the assets/ folder to GitHub for animations to display -->
 <div align="center">
-  <img src="assets/header-amber.svg" width="100%" alt="cozy animated night sky with amber glow frame"/>
+  <img src="assets/header-amber.svg" width="100%" alt="professional night sky header with soft amber border"/>
 </div>
 
 <!-- ░░░ HERO TEXT ░░░ -->
@@ -10,7 +9,7 @@
   <p><em>Full-Stack Newbie Software Engineer &nbsp;·&nbsp; Visual Storyteller &nbsp;·&nbsp; AI Explorer &nbsp;·&nbsp; Yapper</em></p>
   <br>
   <a href="https://github.com/Cryddd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=F7A325&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;AI+Engineering+Explorer;Visual+Storyteller;Yapper+%26+Code+Poet" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=D4A860&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;AI+Engineering+Explorer;Visual+Storyteller;Yapper+%26+Code+Poet" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -19,7 +18,7 @@
 <!-- ░░░ CTA BUTTON ░░░ -->
 <div align="center">
   <a href="https://cryddd.github.io">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=F7A325&height=80&text=Click+me+to+explore+another+dimension&fontSize=22&fontColor=0d1117&fontAlignY=55" width="100%" alt="Click me to explore another dimension"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=131826&height=80&text=Click+me+to+explore+another+dimension&fontSize=22&fontColor=E8C07A&fontAlignY=55" width="100%" alt="Click me to explore another dimension"/>
   </a>
   <br>
   <sub><em>Mouse-reactive text interactions live on the external page — GitHub cannot run custom scripts.</em></sub>
@@ -27,8 +26,8 @@
 
 <br>
 
-<!-- ░░░ AMBER DIVIDER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7A325&height=3" width="100%" alt=""/>
+<!-- ░░░ DIVIDER ░░░ -->
+<img src="assets/divider.svg" width="100%" height="4" alt=""/>
 
 ## 🌐 Socials
 
@@ -44,14 +43,14 @@
 
 </div>
 
-<!-- ░░░ AMBER DIVIDER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7A325&height=3" width="100%" alt=""/>
+<!-- ░░░ DIVIDER ░░░ -->
+<img src="assets/divider.svg" width="100%" height="4" alt=""/>
 
 <table width="100%">
   <tr>
     <td><h2>💫 About Me</h2></td>
     <td align="right">
-      <img src="assets/pixel-music.svg" width="90" alt="pixel guitar with floating amber music notes"/>
+      <img src="assets/about_me_Icon.png" width="90" alt="about me icon"/>
     </td>
   </tr>
 </table>
@@ -78,8 +77,8 @@ Most of what I know came from self-study, endless experimentation, late-night cu
 
 And honestly? I'm still just getting started 🚀
 
-<!-- ░░░ AMBER DIVIDER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7A325&height=3" width="100%" alt=""/>
+<!-- ░░░ DIVIDER ░░░ -->
+<img src="assets/divider.svg" width="100%" height="4" alt=""/>
 
 ## 🌌 Currently Exploring
 
@@ -92,14 +91,14 @@ And honestly? I'm still just getting started 🚀
 - **🏗️ Scalable Architecture**  
   Containerized microservices with Docker and Kubernetes, event-driven backends, and modern full-stack deployment workflows.
 
-<!-- ░░░ AMBER DIVIDER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7A325&height=3" width="100%" alt=""/>
+<!-- ░░░ DIVIDER ░░░ -->
+<img src="assets/divider.svg" width="100%" height="4" alt=""/>
 
 <table width="100%">
   <tr>
     <td><h2>🎵 Music × Code</h2></td>
     <td align="right">
-      <img src="assets/cozy-spirit.svg" width="80" alt="cute floating ghibli spirit with amber sparkles"/>
+      <img src="assets/music_icon.png" width="80" alt="music icon"/>
     </td>
   </tr>
 </table>
@@ -110,14 +109,14 @@ In many ways, SOFTWARE ENGINEERING became another instrument for me.
 
 > *A canvas where art meets logic. A place where imagination becomes interactive. A world where ideas finally get to breathe.*
 
-<!-- ░░░ AMBER DIVIDER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7A325&height=3" width="100%" alt=""/>
+<!-- ░░░ DIVIDER ░░░ -->
+<img src="assets/divider.svg" width="100%" height="4" alt=""/>
 
 <table width="100%">
   <tr>
     <td><h2>💻 Tech Stack</h2></td>
     <td align="right">
-      <img src="assets/pixel-bug.svg" width="70" alt="pixel ladybug debug mode on"/>
+      <img src="assets/tech_stack_icon.png" width="70" alt="tech stack icon"/>
     </td>
   </tr>
 </table>
@@ -191,8 +190,8 @@ In many ways, SOFTWARE ENGINEERING became another instrument for me.
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white)
 
-<!-- ░░░ AMBER DIVIDER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7A325&height=3" width="100%" alt=""/>
+<!-- ░░░ DIVIDER ░░░ -->
+<img src="assets/divider.svg" width="100%" height="4" alt=""/>
 
 ## 📊 GitHub Stats
 
@@ -206,8 +205,8 @@ In many ways, SOFTWARE ENGINEERING became another instrument for me.
 
 </div>
 
-<!-- ░░░ AMBER DIVIDER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7A325&height=3" width="100%" alt=""/>
+<!-- ░░░ DIVIDER ░░░ -->
+<img src="assets/divider.svg" width="100%" height="4" alt=""/>
 
 ## 🏆 GitHub Trophies
 
@@ -217,8 +216,8 @@ In many ways, SOFTWARE ENGINEERING became another instrument for me.
 
 </div>
 
-<!-- ░░░ AMBER DIVIDER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7A325&height=3" width="100%" alt=""/>
+<!-- ░░░ DIVIDER ░░░ -->
+<img src="assets/divider.svg" width="100%" height="4" alt=""/>
 
 ## ✍️ Hopes UP!
 
@@ -228,8 +227,8 @@ In many ways, SOFTWARE ENGINEERING became another instrument for me.
 
 </div>
 
-<!-- ░░░ AMBER DIVIDER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7A325&height=3" width="100%" alt=""/>
+<!-- ░░░ DIVIDER ░░░ -->
+<img src="assets/divider.svg" width="100%" height="4" alt=""/>
 
 ## 🔝 Top Contributed Repos
 
@@ -239,9 +238,9 @@ In many ways, SOFTWARE ENGINEERING became another instrument for me.
 
 </div>
 
-<!-- ░░░ AMBER FOOTER WAVE ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F7A325&height=120&section=footer" width="100%" alt=""/>
+<!-- ░░░ FOOTER WAVE ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=131826&height=120&section=footer" width="100%" alt=""/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cryddd&color=F7A325&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Cryddd&color=C49240&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
